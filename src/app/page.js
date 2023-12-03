@@ -27,7 +27,7 @@ export default function Home() {
     </section>
 
       <section className="promos">
-        <h1>Promos We Offer</h1>
+        <h1 className='text-red-900 text-red-900 md:text-green-900 lg:text-white text-4xl md:text-base lg:text-sm'>Promos We Offer</h1>
         <p>Bus trips just got smarter</p>
 
         <div className="row">
