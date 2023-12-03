@@ -13,6 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
+#para ma run command [ npm install  ] pag tapos naman ma install i run na [ npm run dev ]
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

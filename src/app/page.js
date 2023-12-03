@@ -7,6 +7,7 @@ export default function Home() {
         <nav>
             <div className="nav-links">
                 <ul>
+                <li><a href="ShuttleMeThere.html">HOME</a></li>
                     <li><a href="ShuttleMeThere.html">HOME</a></li>
                     <li><a href="About.html">ABOUT</a></li>
                     <li><a href="Routes.html">ROUTES</a></li>
@@ -16,7 +17,7 @@ export default function Home() {
         </nav>
 
         <div className="text-box">
-          {/*   <Image width={100}  height={100} src="images/smt2.0.png" alt="logo"/> */}
+            {/* <Image width={100}  height={100} src={} alt="logo"/> */}
             <h1>Shuttle Me There!</h1>
             <p>Explore the world with peace of mind book your bus journey now</p>
             <a href="#" className="hero-btn">Download Here</a>
